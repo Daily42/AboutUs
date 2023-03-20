@@ -9,18 +9,18 @@ Daily42는 42서울과 연동되는 장소 리스트를 기반으로 한 일정 
 
 ## 기술 스택
 
-#### 🌐 Frontend
+### 🌐 Frontend
 - `React`
 - `TypeScript`
 
-#### 🖥️ Backend
+### 🖥️ Backend
 - `Nest.js`
 - `MySQL`
 - `TypeORM`
 
 ## 개발자
 
-- 🤖 **ChatGPT**
+- 🤖 **ChatGPT** [chat.openai.com](https://chat.openai.com)
 - 🧑‍💻 kkim: [github.com/KKWANH](https://github.com/KKWANH)
 - 🧑‍💻 mygo: [github.com/B-1Go](https://github.com/B-1Go)
 - 🧑‍💻 yonshin: [github.com/sindydwns](https://github.com/sindydwns)
