@@ -27,8 +27,10 @@ Daily42는 42서울과 연동되는 장소 리스트를 기반으로 한 일정 
 
 # 사이트에 접속하세요.
 
-[링크를 눌러서 접속하실 수도 있습니다.](http://yonshin.cafe24app.com/)
+[링크 또는 QR을 이용하세요.](http://yonshin.cafe24app.com/)
 
 <div align="center">
-<img width="161" alt="image (1)" src="https://user-images.githubusercontent.com/35485904/226239570-e16c779b-376f-40cf-9344-4e59c9c525fe.png">
+  <a href="http://yonshin.cafe24app.com/">
+    <img width="400" alt="image (1)" src="https://user-images.githubusercontent.com/35485904/226239570-e16c779b-376f-40cf-9344-4e59c9c525fe.png">
+  </a>
 </div>
