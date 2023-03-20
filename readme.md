@@ -24,3 +24,11 @@ Daily42는 42서울과 연동되는 장소 리스트를 기반으로 한 일정 
 - 🧑‍💻 kkim: [github.com/KKWANH](https://github.com/KKWANH)
 - 🧑‍💻 mygo: [github.com/B-1Go](https://github.com/B-1Go)
 - 🧑‍💻 yonshin: [github.com/sindydwns](https://github.com/sindydwns)
+
+# 사이트에 접속하세요.
+
+[링크를 눌러서 접속하실 수도 있습니다.](http://yonshin.cafe24app.com/)
+
+<div align="center">
+<img width="161" alt="image (1)" src="https://user-images.githubusercontent.com/35485904/226239570-e16c779b-376f-40cf-9344-4e59c9c525fe.png">
+</div>
